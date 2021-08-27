@@ -1,4 +1,4 @@
-<!-- # Welcom to My Github👋
+# Welcom to My Github👋
 
 I am Moh Yaghoub, a third year Computer Science student at UBC. I have been programming, developing, designing, and testing my own projects for more than 5 years. Throughout these years, I have created Android, IOS, Desktop, and Web apps and games, all of which are unique in one way or another. 
 
@@ -35,4 +35,4 @@ An android alarm clock with a bunch of smart features and an elegant design!
 
 I hope you have a fun time exploring my project. Please clone and fork any of my projects that you like and create something bigger, and please send me your suggestions or improvements as well.
 
--->
+
