@@ -1,4 +1,4 @@
-# Welcom to My Github👋
+# Welcome to my Github👋
 
 I am Moh Yaghoub, a third year Computer Science student at UBC. I have been programming, developing, designing, and testing my own projects for more than 5 years. Throughout these years, I have created Android, IOS, Desktop, and Web apps and games, all of which are unique in one way or another. 
 
