@@ -1,8 +1,8 @@
-# Welcome to my Github👋
+# Welcome to my Github
 
 I am Moh Yaghoub, a fourth year Computer Science student at UBC. I have been programming, developing, designing, and testing my own projects for more than 6 years. Throughout these years, I have created Android, IOS, Desktop, and Web apps and games, all of which are unique in one way or another. 
 
-## My Interests 👀
+## My Interests
 Some of my hobbies include playing video games (such as Destiny 2, no one can beat me in it, don’t try), card tricks, and some cardistry. I am also interested in Artificial Intelligence and Machine Learning, so stay tuned for my upcoming projects about AI and ML
 
 # My Latest Projects
