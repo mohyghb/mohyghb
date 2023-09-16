@@ -1,11 +1,4 @@
-# Welcome to my Github
-
-I am Moh Yaghoub, a fourth year Computer Science student at UBC. I have been programming, developing, designing, and testing my own projects for more than 6 years. Throughout these years, I have created Android, IOS, Desktop, and Web apps and games, all of which are unique in one way or another. 
-
-## My Interests
-Some of my hobbies include playing video games (such as Destiny 2, no one can beat me in it, don’t try), card tricks, and some cardistry. I am also interested in Artificial Intelligence and Machine Learning, so stay tuned for my upcoming projects about AI and ML
-
-# My Latest Projects
+# Latest Projects
 
 Here are some of my latest projects. 
 
@@ -31,8 +24,7 @@ An android alarm clock with a bunch of smart features and an elegant design!
 <img src="https://user-images.githubusercontent.com/37986616/120905027-38337f80-c604-11eb-9819-7e8dcdb5e278.jpeg" width="150">
 <img src="https://user-images.githubusercontent.com/37986616/120905034-42557e00-c604-11eb-9afb-43fee45af97f.jpeg" width="150">
 
-## Thanks for visiting my Github page!
-
+--- 
 I hope you have a fun time exploring my project. Please clone and fork any of my projects that you like and create something bigger, and please send me your suggestions or improvements as well.
 
 
